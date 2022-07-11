@@ -464,7 +464,7 @@ whichever 表示省略掉先行词。分析句型的时候也可以把 whichever
 
 1. I've forgotten <Note>the reason</Note>.
 
-2. I called <Note>for a reaseon</Note>.
+2. I called <Note>for a reason</Note>.
 
 → (A) I've forgotten <Note note="先行词">the reason</Note> <Note note="关系从句">(why) I called</Note>.
 
